@@ -80,8 +80,6 @@ class Chuanglan implements SmsInterface
             'report'   => true
         ]);
 
-        dd($result);
-
         return $this->transform($result);
     }
 
