@@ -9,7 +9,7 @@ composer require eddie/chuanglan
 或 在composer.json 添加 
 
 ```json
-"eddie/chuanglan": "~v1.0"
+"eddie/chuanglan": "~1.0"
 ```
 
 运行 ```composer update```
