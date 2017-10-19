@@ -1,0 +1,19 @@
+{
+    "name": "eddie/chuanglan",
+    "description": "Chuanglan SMS support in Laravel.",
+    "keywords": ["创蓝短信"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eddie Lau",
+            "email": "277676978@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Eddie\\Chuanglan\\": "src/"
+        }
+    }
+}
